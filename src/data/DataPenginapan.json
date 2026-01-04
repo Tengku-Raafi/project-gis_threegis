@@ -1,0 +1,786 @@
+{
+  "type": "FeatureCollection",
+  "crs": { "type": "name", "properties": { "name": "EPSG:4326" } },
+  "features": [
+    {
+      "type": "Homestay",
+      "id": 1,
+      "geometry": { "type": "Point", "coordinates": [101.479256, 0.471924] },
+      "properties": {
+        "nama": "De Mori Homestay",
+        "alamat": "Jl. Abadi No.02A, Tengkerang Labuai, Kec. Bukit Raya, Pekanbaru",
+        "telepon": "082170001942",
+        "rating": 4.8,
+        "harga": 250000,
+        "foto": "/images/HOMESTAY_DE_MORI.jpg"
+      }
+    },
+    {
+      "type": "Homestay",
+      "id": 2,
+      "geometry": { "type": "Point", "coordinates": [101.461866, 0.483946] },
+      "properties": {
+        "nama": "Liberty Homestay",
+        "alamat": "Jl. Punai No.10, Tengkerang Selatan, Bukit Raya, Pekanbaru",
+        "telepon": "081268889339",
+        "rating": 4.2,
+        "harga": 120000,
+        "foto": "/images/HOMESTAY_LIBERTY.jpg"
+      }
+    },
+    {
+      "type": "Homestay",
+      "id": 3,
+      "geometry": { "type": "Point", "coordinates": [101.459852, 0.488938] },
+      "properties": {
+        "nama": "Taman Sari Syariah Homestay",
+        "alamat": "Jl. Taman Sari No.35, Tengkerang Selatan, Bukit Raya, Pekanbaru",
+        "telepon": "08127609485",
+        "rating": 4.0,
+        "harga": 120000,
+        "foto": "/images/HOMESTAY_TAMAN_SARI_SYARIAH.jpg"
+      }
+    },
+    {
+      "type": "Homestay",
+      "id": 4,
+      "geometry": { "type": "Point", "coordinates": [101.424683, 0.573512] },
+      "properties": {
+        "nama": "SPOT ON Homestay",
+        "alamat": "Indonesia kfc, alfamart, Gg. Permata Sari No.10, Umban Sari, Rumbai, Pekanbaru City, Riau 28265",
+        "telepon": "02129707601",
+        "rating": 3.3,
+        "harga": 38975,
+        "foto": "/images/HOMESTAY_SPOT_ON.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 5,
+      "geometry": { "type": "Point", "coordinates": [101.455063, 0.499773] },
+      "properties": {
+        "nama": "Hotel Alpha",
+        "alamat": "Jl. Imam Munandar No.17, Tengkerang Utara, Bukit Raya, Pekanbaru",
+        "telepon": "076120168",
+        "rating": 4.1,
+        "harga": 300000,
+        "foto": "/images/HOTEL_ALPHA.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 6,
+      "geometry": { "type": "Point", "coordinates": [101.442740, 0.530564] },
+      "properties": {
+        "nama": "Hotel Ameera",
+        "alamat": "Jl. Jend. Ahmad Yani No.42A, Tanah Datar, Senapelan, Pekanbaru",
+        "telepon": "07617870200",
+        "rating": 4.4,
+        "harga": 384973,
+        "foto": "/images/HOTEL_AMEERA.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 7,
+      "geometry": { "type": "Point", "coordinates": [101.453027, 0.535836] },
+      "properties": {
+        "nama": "Hotel Angkasa Garden",
+        "alamat": "Jl. Dr. Setia Budhi No.107, Rintis, Lima Puluh, Pekanbaru",
+        "telepon": "076122178",
+        "rating": 4.4,
+        "harga": 290140,
+        "foto": "/images/HOTEL_ANGKASA.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 8,
+      "geometry": { "type": "Point", "coordinates": [101.448550, 0.518116] },
+      "properties": {
+        "nama": "Hotel Emerald",
+        "alamat": "GFJ6+FFH, Jl. Kuantan Raya, Sekip, Kec. Lima Puluh, Kota Pekanbaru, Riau",
+        "telepon": "0878428685556",
+        "rating": 3.7,
+        "harga": 200000,
+        "foto": "/images/HOTEL_EMERALD.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 9,
+      "geometry": { "type": "Point", "coordinates": [101.452354, 0.515112] },
+      "properties": {
+        "nama": "Hotel Arya Duta",
+        "alamat": "Jl. Diponegoro No.34, Simpang Empat, Pekanbaru Kota",
+        "telepon": "076144200",
+        "rating": 4.4,
+        "harga": 377798,
+        "foto": "/images/HOTEL_ARYADUTA.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 10,
+      "geometry": { "type": "Point", "coordinates": [101.454122, 0.471538] },
+      "properties": {
+        "nama": "Hotel Batiqa",
+        "alamat": "Jl. Jend. Sudirman No.17, Simpang Tiga, Bukit Raya, Pekanbaru",
+        "telepon": "0761889000",
+        "rating": 4.6,
+        "harga": 750082,
+        "foto": "/images/HOTEL_BATIQA.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 11,
+      "geometry": { "type": "Point", "coordinates": [101.418863, 0.493218] },
+      "properties": {
+        "nama": "Hotel Benteng",
+        "alamat": "Jl. Soekarno-Hatta No.16, Labuh Baru Timur, Pekanbaru",
+        "telepon": "076139079",
+        "rating": 4.1,
+        "harga": 202419,
+        "foto": "/images/HOTEL_BENTENG.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 12,
+      "geometry": { "type": "Point", "coordinates": [101.433294, 0.535264] },
+      "properties": {
+        "nama": "Hotel Bono",
+        "alamat": "Jl. Riau No.Kav. 22, Padang Terubuk, Senapelan, Pekanbaru",
+        "telepon": "07618656000",
+        "rating": 4.1,
+        "harga": 438798,
+        "foto": "/images/HOTEL_BONO.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 13,
+      "geometry": { "type": "Point", "coordinates": [101.448010, 0.529854] },
+      "properties": {
+        "nama": "Hotel City Smart",
+        "alamat": "Jl. Gatot Subroto No.5, Kota Tinggi, Pekanbaru Kota",
+        "telepon": "07618406777",
+        "rating": 4.0,
+        "harga": 194740,
+        "foto": "/images/HOTEL_CITYSMART.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 14,
+      "geometry": { "type": "Point", "coordinates": [101.44915, 0.52995] },
+      "properties": {
+        "nama": "Hotel Mas Graha",
+        "alamat": "Jl. Kaharuddin Nst No.47, Simpang Tiga, Bukit Raya, Pekanbaru",
+        "telepon": "082169808450",
+        "rating": 4.1,
+        "harga": 201160,
+        "foto": "/images/HOTEL_MAS_GRAHA.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 15,
+      "geometry": { "type": "Point", "coordinates": [101.449061, 0.528244] },
+      "properties": {
+        "nama": "Hotel Cititel",
+        "alamat": "Jl. Sisingamangaraja No.32, Sumahilang, Pekanbaru Kota",
+        "telepon": "076136777",
+        "rating": 4.5,
+        "harga": 295077,
+        "foto": "/images/HOTEL_CITITEL.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 16,
+      "geometry": { "type": "Point", "coordinates": [101.453803, 0.530769] },
+      "properties": {
+        "nama": "Hotel Dafam",
+        "alamat": "Jl. Sultan Syarif Qasim No.Kav.150, Kota Tinggi, Pekanbaru Kota",
+        "telepon": "0761851177",
+        "rating": 4.3,
+        "harga": 379052,
+        "foto": "/images/HOTEL_DAFAM.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 17,
+      "geometry": { "type": "Point", "coordinates": [101.448189, 0.528240] },
+      "properties": {
+        "nama": "Hotel Dharma Utama",
+        "alamat": "Jl. Dr. Setia Budhi No.107, Rintis, Pekanbaru",
+        "telepon": "08117071888",
+        "rating": 4.0,
+        "harga": 250000,
+        "foto": "/images/HOTEL_DHARMAUTAMA.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 18,
+      "geometry": { "type": "Point", "coordinates": [101.455285, 0.495590] },
+      "properties": {
+        "nama": "Hotel Drego",
+        "alamat": "Jl. Jend. Sudirman No.182, Tangkerang Tengah, Marpoyan Damai, Pekanbaru",
+        "telepon": "085263822226",
+        "rating": 3.9,
+        "harga": 233976,
+        "foto": "/images/HOTEL_DREGO.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 19,
+      "geometry": { "type": "Point", "coordinates": [101.449540, 0.509738] },
+      "properties": {
+        "nama": "Hotel Evo",
+        "alamat": "Jl. Jend. Sudirman No.8, Wonorejo, Marpoyan Damai, Pekanbaru",
+        "telepon": "07618402333",
+        "rating": 4.3,
+        "harga": 394128,
+        "foto": "/images/HOTEL_EVO.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 20,
+      "geometry": { "type": "Point", "coordinates": [101.452601, 0.503797] },
+      "properties": {
+        "nama": "Hotel Fave",
+        "alamat": "Jl. Pinang No.10, Wonorejo, Marpoyan Damai, Pekanbaru",
+        "telepon": "07618401800",
+        "rating": 4.7,
+        "harga": 475393,
+        "foto": "/images/HOTEL_FAVE.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 21,
+      "geometry": { "type": "Point", "coordinates": [101.442457, 0.522103] },
+      "properties": {
+        "nama": "Hotel Favor",
+        "alamat": "Jl. Jend. Ahmad Yani No.39, Kota Baru, Pekanbaru Kota",
+        "telepon": "08117673400",
+        "rating": 4.3,
+        "harga": 265210,
+        "foto": "/images/HOTEL_FAVOR.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 22,
+      "geometry": { "type": "Point", "coordinates": [101.428881, 0.533990] },
+      "properties": {
+        "nama": "Hotel Fox",
+        "alamat": "Jl. Riau No.147, Padang Terubuk, Senapelan, Pekanbaru",
+        "telepon": "07617415999",
+        "rating": 4.5,
+        "harga": 537769,
+        "foto": "/images/HOTEL_FOX.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 23,
+      "geometry": { "type": "Point", "coordinates": [101.424089, 0.535173] },
+      "properties": {
+        "nama": "Hotel Grand Elite",
+        "alamat": "Komplek Riau Business Centre, Air Hitam, Payung Sekaki, Pekanbaru",
+        "telepon": "0761860988",
+        "rating": 4.4,
+        "harga": 547308,
+        "foto": "/images/HOTEL_GRAND_ELITE.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 24,
+      "geometry": { "type": "Point", "coordinates": [101.417255, 0.492576] },
+      "properties": {
+        "nama": "Hotel Grand Suka",
+        "alamat": "Jl. Soekarno - Hatta No.KAV. 148, Delima, Kec. Tampan, Kota Pekanbaru, Riau 28294",
+        "telepon": "0761571600",
+        "rating": 4.0,
+        "harga": 40000,
+        "foto": "/images/HOTEL_GRAND_SUKA.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 25,
+      "geometry": { "type": "Point", "coordinates": [101.448801, 0.532263] },
+      "properties": {
+        "nama": "Hotel Grand Zuri",
+        "alamat": "Jl. Teuku Umar No.7, Rintis, Lima Puluh, Pekanbaru",
+        "telepon": "0761857888",
+        "rating": 4.7,
+        "harga": 643893,
+        "foto": "/images/HOTEL_GRANDZURI.jpg"
+      }
+    },
+ {
+      "type": "Hotel",
+      "id": 26,
+      "geometry": { "type": "Point", "coordinates": [101.448743, 0.506721] },
+      "properties": {
+        "nama": "Hotel Star City",
+        "alamat": "Jl. Jend. Sudirman No.426, Tanah Datar, Kec. Pekanbaru Kota, Kota Pekanbaru, Riau 28156",
+        "telepon": "081267006535",
+        "rating": 4.4,
+        "harga": 500000,
+        "foto": "/images/HOTEL_STAR_CITY.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 27,
+      "geometry": { "type": "Point", "coordinates": [101.448020, 0.529784] },
+      "properties": {
+        "nama": "Hotel Hawai",
+        "alamat": "Jl. Gatot Subroto No.8, Kota Tinggi, Pekanbaru Kota",
+        "telepon": "076122233",
+        "rating": 4.1,
+        "harga": 337478,
+        "foto": "/images/HOTEL_HAWAII.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 28,
+      "geometry": { "type": "Point", "coordinates": [101.448332, 0.530591] },
+      "properties": {
+        "nama": "Hotel Grand Jatra",
+        "alamat": "Jl. Tengku Zainal Abidin No.1, Kota Tinggi, Pekanbaru Kota",
+        "telepon": "076122233",
+        "rating": 4.5,
+        "harga": 764321,
+        "foto": "/images/HOTEL_GRAND_JATRA.jpg"
+      }
+    },
+     {
+      "type": "Hotel",
+       "id": 29,
+       "geometry": { "type": "Point", "coordinates": [101.448504, 0.527965] },
+       "properties": {
+         "nama": "Hotel Rauda",
+         "alamat": "Jl. Tengku Zainal Abidin No.2, RW.4, Kota Tinggi, Kec. Pekanbaru Kota, Kota Pekanbaru, Riau 28112",
+         "telepon": "076133372",
+         "rating": 4.3,
+         "harga": 300000,
+         "foto": "/images/HOTEL_RAUDA.jpg"
+       }
+     },
+     {
+      "type": "Hotel",
+      "id": 30,
+      "geometry": { "type": "Point", "coordinates": [101.463304, 0.543361] },
+      "properties": {
+        "nama": "Hotel Holiday",
+        "alamat": "GFR6+X8X Komplek Mahkota, Jl. Tanjung Datuk Gg. Holiday No. 8G, Tanjung Rhu, Lima Puluh, Pekanbaru City, Riau 28151",
+        "telepon": "0761858946",
+        "rating": 3.5,
+        "harga": 110000,
+        "foto": "/images/HOTEL_HOLIDAY.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 31,
+      "geometry": { "type": "Point", "coordinates": [101.454306, 0.482778] },
+      "properties": {
+        "nama": "Hotel Mayang Garden",
+        "alamat": "Tengkerang, Jl. Jend. Sudirman No.II, Tengkerang Sel., Kec. Bukit Raya, Kota Pekanbaru, Riau 28125",
+        "telepon": null,
+        "rating": 3.7,
+        "harga": 291211,
+        "foto": "/images/HOTEL_MAYANG_GARDEN.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 32,
+      "geometry": { "type": "Point", "coordinates": [101.449852, 0.530574] },
+      "properties": {
+        "nama": "Monolog Hotel",
+        "alamat": "Jalan Tengku Zainal Abidin, Pekanbaru Kota, Kota Pekanbaru, Riau 28292, Indonesia",
+        "telepon": "0761851008",
+        "rating": 4.2,
+        "harga": 251170,
+        "foto": "/images/HOTEL_MONOLOG.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 33,
+      "geometry": { "type": "Point", "coordinates": [101.436397, 0.536948] },
+      "properties": {
+        "nama": "Hotel Mutiara",
+        "alamat": "Jalan Yos Sudarso No.12-A Kampung Bandar, Kp. Baru, Kec. Senapelan, Kota Pekanbaru, Riau 28154",
+        "telepon": "081275120404",
+        "rating": 4.3,
+        "harga": 352402,
+        "foto": "/images/HOTEL_MUTIARA.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 34,
+      "geometry": { "type": "Point", "coordinates": [101.461542, 0.531898] },
+      "properties": {
+        "nama": "Million New Hollywood Hotel",
+        "alamat": "Jalan Kuantan Raya, Lima Puluh, Kota Pekanbaru, Riau 28292, Indonesia",
+        "telepon": "081262496868",
+        "rating": 4.2,
+        "harga": 371589,
+        "foto": "/images/HOTEL_HOLYWOOD.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 35,
+      "geometry": { "type": "Point", "coordinates": [101.429439, 0.535256] },
+      "properties": {
+        "nama": "Novotel Pekanbaru",
+        "alamat": "Jalan Riau, Senapelan, Kota Pekanbaru, Riau 28292, Indonesia",
+        "telepon": "076125599",
+        "rating": 4.5,
+        "harga": 878179,
+        "foto": "/images/HOTEL_NOVOTEL.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 36,
+      "geometry": { "type": "Point", "coordinates": [101.418659, 0.485903] },
+      "properties": {
+        "nama": "Hotel Olgaria",
+        "alamat": "Jalan Soekarno Hatta, Tampan, Kota Pekanbaru, Riau 28284, Indonesia",
+        "telepon": "02129707601",
+        "rating": 3.5,
+        "harga": 164627,
+        "foto": "/images/HOTEL_OLGARIA.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 37,
+      "geometry": { "type": "Point", "coordinates": [101.459707, 0.489856] },
+      "properties": {
+        "nama": "Hotel PalmStay",
+        "alamat": "Jalan Nilam Sari, Bukit Raya, Kota Pekanbaru, Riau 28292, Indonesia",
+        "telepon": "082171240579",
+        "rating": 4.0,
+        "harga": 220000,
+        "foto": "/images/HOTEL_PALMSTAY.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 38,
+      "geometry": { "type": "Point", "coordinates": [101.452521, 0.504651] },
+      "properties": {
+        "nama": "Hotel Pangeran",
+        "alamat": "Jalan Jenderal Sudirman, Sail, Kota Pekanbaru, Riau 28292, Indonesia",
+        "telepon": "08117603636",
+        "rating": 4.3,
+        "harga": 550000,
+        "foto": "/images/HOTEL_PANGERAN.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 39,
+      "geometry": { "type": "Point", "coordinates": [101.451079, 0.529813] },
+      "properties": {
+        "nama": "Parma Express Hotel",
+        "alamat": "Jalan Gatot Subroto, Pekanbaru Kota, Kota Pekanbaru, Riau 28292, Indonesia",
+        "telepon": "0761854899",
+        "rating": 4.0,
+        "harga": 320000,
+        "foto": "/images/HOTEL_PARMA_EXPRESS.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 40,
+      "geometry": { "type": "Point", "coordinates": [101.455657, 0.497054] },
+      "properties": {
+        "nama": "Parma Star Hotel",
+        "alamat": "Jalan Jenderal Sudirman, Sail, Kota Pekanbaru, Riau 28292, Indonesia",
+        "telepon": "07618522559",
+        "rating": 4.1,
+        "harga": 380000,
+        "foto": "/images/HOTEL_PARMA_STAR.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 41,
+      "geometry": { "type": "Point", "coordinates": [101.455214, 0.476934] },
+      "properties": {
+        "nama": "Hotel Prime Park",
+        "alamat": "Jalan Jenderal Sudirman, Marpoyan Damai, Kota Pekanbaru, Riau 28282, Indonesia",
+        "telepon": "07617878222",
+        "rating": 4.4,
+        "harga": 403000,
+        "foto": "/images/HOTEL_PRIME_SPARK.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 42,
+      "geometry": { "type": "Point", "coordinates": [101.447565, 0.522998] },
+      "properties": {
+        "nama": "Whiz Prime Hotel Sudirman Pekanbaru",
+        "alamat": "Jalan Jenderal Sudirman, Pekanbaru Kota, Kota Pekanbaru, Riau 28115, Indonesia",
+        "telepon": "07618520888",
+        "rating": 4.2,
+        "harga": 420000,
+        "foto": "/images/HOTEL_WHIZ.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 43,
+      "geometry": { "type": "Point", "coordinates": [101.454524, 0.528327] },
+      "properties": {
+        "nama": "Hotel Amaris",
+        "alamat": "Jalan Sisingamangaraja, Lima Puluh, Kota Pekanbaru, Riau 28292, Indonesia",
+        "telepon": "0761856111",
+        "rating": 4.3,
+        "harga": 316164,
+        "foto": "/images/HOTEL_AMARIS.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 44,
+      "geometry": { "type": "Point", "coordinates": [101.409747, 0.549994] },
+      "properties": {
+        "nama": "Singgah",
+        "alamat": "Jalan Riau Ujung, Payung Sekaki, Kota Pekanbaru, Riau 28292, Indonesia",
+        "telepon": "08117693388",
+        "rating": 3.8,
+        "harga": 250000,
+        "foto": "/images/HOTEL_SINGGAH.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 45,
+      "geometry": { "type": "Point", "coordinates": [101.454163, 0.473719] },
+      "properties": {
+        "nama": "Prime Park Hotel",
+        "alamat": "Jalan Jenderal Sudirman, Bukit Raya, Kota Pekanbaru, Riau 28284, Indonesia",
+        "telepon": "07617878222",
+        "rating": 4.3,
+        "harga": 450000,
+        "foto": "/images/HOTEL_PRIME.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 46,
+      "geometry": { "type": "Point", "coordinates": [101.454043, 0.499811] },
+      "properties": {
+        "nama": "Hotel Tjokro",
+        "alamat": "Jalan Jenderal Sudirman, Bukit Raya, Kota Pekanbaru, Riau 28289, Indonesia",
+        "telepon": "0761851298",
+        "rating": 4.1,
+        "harga": 350000,
+        "foto": "/images/HOTEL_TJOKRO.jpg"
+      }
+    },
+        {
+      "type": "Villa",
+      "id": 47,
+      "geometry": { "type": "Point", "coordinates": [101.4468, 0.5755] },
+      "properties": {
+        "nama": "Villa Terakota",
+        "alamat": "Jalan Umban Sari Atas, Rumbai, Kota Pekanbaru, Riau 28266, Indonesia",
+        "telepon": "null",
+        "rating": 4.8,
+        "harga": 400000,
+        "foto": "/images/villaterakota.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 48,
+      "geometry": { "type": "Point", "coordinates": [101.461437, 0.484343] },
+      "properties": {
+        "nama": "Hotel Viandora",
+        "alamat": "Jalan Pelita Sari, Bukit Raya, Kota Pekanbaru, Riau 28289, Indonesia",
+        "telepon": "0895417300072",
+        "rating": 4.1,
+        "harga": 200000,
+        "foto": "/images/HOTEL_VIANDORA.jpg"
+      }
+    },
+    {
+      "type": "Villa",
+      "id": 49,
+      "geometry": { "type": "Point", "coordinates": [101.476352, 0.474514] },
+      "properties": {
+        "nama": "Vila Maharaja",
+        "alamat": "Jalan Raja Muchran, Bukit Raya, Kota Pekanbaru, Riau 28289, Indonesia",
+        "telepon": null,
+        "rating": 4.0,
+        "harga": 300000,
+        "foto": "/images/VILLA_MAHARAJA.jpg"
+      }
+    },
+    {
+      "type": "Wisma",
+      "id": 50,
+      "geometry": { "type": "Point", "coordinates": [101.406321, 0.535112] },
+      "properties": {
+        "nama": "Wisma 63",
+        "alamat": "Jalan Riau Ujung, Payung Sekaki, Kota Pekanbaru, Riau 28292, Indonesia",
+        "telepon": "0761861660",
+        "rating": 3.7,
+        "harga": 150000,
+        "foto": "/images/WISMA_63.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 51,
+      "geometry": { "type": "Point", "coordinates": [101.449185, 0.530646] },
+      "properties": {
+        "nama": "Hotel The Park",
+        "alamat": "Jalan Pasar Mambo, Pekanbaru Kota, Kota Pekanbaru, Riau 28292, Indonesia",
+        "telepon": "076122930",
+        "rating": 3.5,
+        "harga": 180000,
+        "foto": "/images/HOTEL_THE_PARK.jpg"
+      }
+    },
+    {
+      "type": "Wisma",
+      "id": 52,
+      "geometry": { "type": "Point", "coordinates": [101.448153, 0.47904] },
+      "properties": {
+        "nama": "Wisma Ion",
+        "alamat": "Jalan Arifin Ahmad, Marpoyan Damai, Kota Pekanbaru, Riau 28284, Indonesia",
+        "telepon": "085265823668",
+        "rating": 4.2,
+        "harga": 300000,
+        "foto": "/images/WISMA_ION.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 53,
+      "geometry": { "type": "Point", "coordinates": [101.4472895 , 0.5349885 ] },
+      "properties": {
+        "nama": "Hotel Furaya",
+        "alamat": "Jl. Jend. Sudirman No.72, Sago, Kec. Senapelan, Kota Pekanbaru, Riau 28151",
+        "telepon": "076126688",
+        "rating": 4.3,
+        "harga": 413484,
+        "foto": "/images/HOTEL_FURAYA.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 54,
+      "geometry": { "type": "Point", "coordinates": [101.442930 , 0.531200 ] },
+      "properties": {
+        "nama": "Hotel Widya",
+        "alamat": "Jl. Riau I No.49, Padang Terubuk, Kec. Senapelan, Kota Pekanbaru, Riau 28155",
+        "telepon": "076121880",
+        "rating": 3.8,
+        "harga": 120000,
+        "foto": "/images/HOTEL_WIDYA.jpg"
+      }
+    },
+    {
+      "type": "Wisma",
+      "id": 55,
+      "geometry": { "type": "Point", "coordinates": [101.416065 , 0.534850 ] },
+      "properties": {
+        "nama": "Wisma Kita",
+        "alamat": "Jl. Riau Ujung No.85, Tampan, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
+        "telepon": "081318845115",
+        "rating": 4.1,
+        "harga": 150000,
+        "foto": "/images/WISMA_KITA.jpg"
+      }
+    },
+    {
+      "type": "Wisma",
+      "id": 56,
+      "geometry": { "type": "Point", "coordinates": [101.449615 , 0.540156 ] },
+      "properties": {
+        "nama": "Wisma Rainbow",
+        "alamat": "GCPW+HHP, Jl. Khadijah Ali, Kp. Dalam, Kec. Senapelan, Kota Pekanbaru, Riau 28155",
+        "telepon": "0761857089",
+        "rating": 3.6,
+        "harga": 150000,
+        "foto": "/images/WISMA_RAINBOW.jpg"
+      }
+    },
+    {
+      "type": "Homestay",
+      "id": 57,
+      "geometry": { "type": "Point", "coordinates": [101.440025 , 0.535345 ] },
+      "properties": {
+        "nama": "Marcopolo Homestay",
+        "alamat": "ABCDE, Jl. Riau No.40, Kp. Bandar, Kec. Senapelan, Kota Pekanbaru, Riau 28292",
+        "telepon": "081261309999",
+        "rating": 4.2,
+        "harga": 123.692,
+        "foto": "/images/MARCOPOLO_HOMESTAY.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 58,
+      "geometry": { "type": "Point", "coordinates": [101.441612 , 0.532679 ] },
+      "properties": {
+        "nama": "Hotel Winstar",
+        "alamat": "Jl. Moh. Ali No.118, Padang Terubuk, Kec. Senapelan, Kota Pekanbaru, Riau 28155",
+        "telepon": "076123588",
+        "rating": 3.9,
+        "harga": 220804,
+        "foto": "/images/HOTEL_WINSTAR.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 59,
+      "geometry": { "type": "Point", "coordinates": [101.421730 , 0.509890 ] },
+      "properties": {
+        "nama": "Hotel Swiss-Belinn SKA Pekanbaru",
+        "alamat": "Complex SKA Mall, Jl. Soekarno-Hatta, Delima, Kec. Tampan, Kota Pekanbaru, Riau 28294",
+        "telepon": "076161888",
+        "rating": 4.6,
+        "harga": 642927,
+        "foto": "/images/HOTEL_SWISS_BELINN.jpg"
+      }
+    },
+    {
+      "type": "Hotel",
+      "id": 60,
+      "geometry": { "type": "Point", "coordinates": [ 101.444700 , 0.534200 ] },
+      "properties": {
+        "nama": "Hotel Royal Asnof Pekanbaru",
+        "alamat": "Jl. Tuanku Tambusai No.106, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28312",
+        "telepon": "07617893011",
+        "rating": 4.3,
+        "harga": 485107,
+        "foto": "/images/HOTEL_ROYAL_ASNOV.jpg"
+      }
+    }
+  ]
+}
