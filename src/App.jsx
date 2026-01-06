@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import About from "./pages/About";
+import Contact from "./pages/Contact";
 import PersebaranPenginapan from "./pages/PersebaranPenginapan";
 import PersebaranDetail from "./pages/PersebaranDetail";
 import MapPage from "./pages/MapPage.jsx";
@@ -40,6 +41,7 @@ export default function App() {
       <Route path="/penginapan" element={<MainLayout><PersebaranPenginapan /></MainLayout>} />
       <Route path="/penginapan/:id" element={<MainLayout><PersebaranDetail /></MainLayout>} />
       <Route path="/about" element={<MainLayout><About /></MainLayout>} />
+      <Route path="/contact" element={<MainLayout><Contact /></MainLayout>} />
       <Route path="/peta" element={<MainLayout><MapPage /></MainLayout>} />
 
       {/* DASHBOARD ADMIN */}

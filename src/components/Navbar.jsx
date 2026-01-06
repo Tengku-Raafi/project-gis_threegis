@@ -12,7 +12,8 @@ export default function Navbar() {
     { path: "/", label: "Home" },
     { path: "/penginapan", label: "Daftar Penginapan" },
     { path: "/peta", label: "Peta Interaktif" },
-    { path: "/about", label: "About" },
+    { path: "/about", label: "About Us" },
+     { path: "/contact", label: "Contact Us" }
   ];
 
   return (
